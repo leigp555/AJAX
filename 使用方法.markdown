@@ -1,2 +1,3 @@
-1 找个空目录运行git代码  $ git clone https://github.com/leigp555/ajax.git .
-2 用编辑器打开这个目录在终端运行代码 $ node node.js +端口号
+1. 找个空目录运行git代码  $ git clone https://github.com/leigp555/ajax.git .
+2. 用编辑器打开这个目录在终端运行代码 $ node node.js +端口号
+3. 浏览器打开网址并在网址后加上 index.html
